@@ -1,6 +1,6 @@
 # **LAPR1_24_25_DAB_02 - TechTitans**
 
-Projeto Integrativo de LAPR1 do grupo 2 - TechTitans.
+Projeto Integrativo de LAPR1 do grupo 2 - TechTitans sobre o uso de Eigen Faces para reconhecimento facial
 
 ---
 
